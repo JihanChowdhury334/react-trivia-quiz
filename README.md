@@ -125,9 +125,14 @@ If you don’t see the background, confirm the image exists at `public/intro-pag
 
 ## 📸 Screenshots
 
-> Add your own later. Example:
->
-> ![Intro](public/intro-page.png)
+### Start Screen
+![Start Screen](screenshots/start.png)
+
+### Quiz in Progress
+![Quiz in Progress](screenshots/quiz.png)
+
+### Results Screen
+![Results Screen](screenshots/results.png)
 
 ---
 
